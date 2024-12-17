@@ -1,0 +1,159 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#mainTitle {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 48px;
+    font-family: Lato;
+    font-size: 72px;
+    font-weight: 700;
+}
+
+#first {
+    margin: 0 auto;
+    max-width: 1220px;
+    margin-top: 53px;
+    width: 100%;
+}
+
+#mainText { 
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Lato;
+    color: #FF8000;
+}
+
+#theoryBox {
+    max-width: 696px;
+    width: 100%;
+    margin-left: 67px;
+    margin-top: 63px;
+}
+
+#theory {
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 40px;
+    color: #FF8000;
+}
+
+#theoryParagraph {
+    font-family: Lato;
+    font-size: 24px;
+    color: #6D81B4 ;
+    margin-top: 24px;
+}
+
+#firstImage {
+    margin-top: 30px;
+    width: 696px;
+    height: 415px;
+}
+
+#blackDiv {
+    max-width: 1007px;
+    width: 100%;
+    padding: 64px;
+    margin-top: 101px;
+    background-color: #FFCEBE;
+    border-left: 2px solid black;
+    border-top: 2px solid black;
+    border-right: 2px solid red;
+    border-bottom: 2px solid red;
+    margin-left: 67px;
+}
+
+#blackTitle {
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 900;
+    color: #F44E50;
+}
+
+#paragraphDiv {
+    margin-top: 24px;
+    font-weight: 500;
+    font-size: 24px;
+    color: #8B2B2C;
+    text-align: center;
+}
+
+#secondImage {
+    width: 879px;
+    height: 415px;
+    margin-top: 30px;
+}
+
+#stringDiv {
+    margin-left: 74px;
+    max-width: 696px;
+    width: 100%;
+    margin-top: 101px;
+}
+
+#string {
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: right;
+}
+
+#stringSmallDiv {
+    margin: 0 auto;
+    display: inline-block;
+    max-width: 696px;
+    width: 100%;
+    height: 222px;
+    margin-top: 24px;
+    background-color: #FFC1E3;
+    border: 3px solid #FF5DA3;
+    padding: 24px;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 400;
+    text-align: right;
+    color: #616161;
+}
+
+#stringLol {
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 24px;
+    text-align: left;
+    margin-top: 54px;
+}
+
+#stringWreYo {
+    display: flex;
+    align-items: center;
+    margin-top: 16px;
+    margin-bottom: 8px;
+    color: #C27512;
+    font-size: 16px;
+}
+  
+#stringWre {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+    color: #C27512;
+    font-size: 16px;
+}
+  
+#wre {
+    width: 16px;
+    height: 16px;
+    margin-right: 12px;
+}
+  
+#textWre {
+    font-size: 16px;
+    font-weight: 400;
+}
